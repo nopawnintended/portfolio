@@ -1,11 +1,11 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "David's Portfolio",
+  "name": "David's Portfolio",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "pic.jpg",
       "sizes": "192x192",
-      "type": "image/png"
+      "type": "image/jpg"
     }
   ],
   "start_url": "./index.html",

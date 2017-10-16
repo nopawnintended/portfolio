@@ -28,7 +28,7 @@ export default class Home extends Component{
         <PageTitle>Home</PageTitle>
           <HeroImage>
             <h1>David Huang</h1>
-            <h2>Full-Stack Web Engineer. <br/> Writer. <br/> Certified Couch Potato.</h2>
+            <h2>Full-Stack Web Developer. <br/> Writer. <br/> Certified Couch Potato.</h2>
           </HeroImage>
           <WhenInView>
             {({ isInView }) =>
