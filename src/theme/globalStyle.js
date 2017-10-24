@@ -12,4 +12,8 @@ injectGlobal`
   h1,h2,h3{
     font-weight: normal;
   }
+
+  div#preload {
+    display: none;
+  }
 `

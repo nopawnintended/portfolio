@@ -32,7 +32,7 @@ class Projects extends Component {
             <ImageContainer>
             <a href="https://github.com/nopawnintended/angelhackSiliconValley" target="_blank"><img style={{maxWidth:"20%"}} src={require('../../assets/gitlogo.png')} alt="giticon"/></a>
               <ParallaxImage
-                style={{borderRadius:"4em"}}
+                style={{borderRadius:"100%"}}
                 src={require('../../assets/sygnal_logo.jpg')}
               />
             </ImageContainer>

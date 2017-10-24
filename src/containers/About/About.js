@@ -30,7 +30,7 @@ export default class Home extends Component{
           <AboutBlock>
             <div className="top-bar">mylife  -  node  -  50x1337</div>
             <p>
-              Last updated: Fri Oct 13 16:24:20 on ttys001 <br />
+              Last updated: Tue Oct 24 14:40:37 on ttys001 <br />
               About-David:~ dhuang$
             </p>
             <p>
@@ -61,8 +61,12 @@ export default class Home extends Component{
               > David.languages <br/>
               [ <span className = "answer">English, Español, 中文</span> ]
             </p>
+            <p>
+              > David.computerLanguages <br/>
+              [ <span className = "answer">Python, Java, C#, JavaScript</span> ]
+            </p>
           </AboutBlock>
-          <Body>Got any questions? Want to work with me? Found some funny pictures? Send them my way! <a className = "answer" href="mailto:davidhuang972@gmail.com?subject=I&#39;m%20your%20biggest%20fan!">davidhuang972@gmail.com</a>
+          <Body>Got any questions? Want to work with me? Found funny pictures? Send them my way! <a className = "answer" href="mailto:davidhuang972@gmail.com?subject=I&#39;m%20your%20biggest%20fan!">davidhuang972@gmail.com</a>
           </Body>
       </Container>
     );

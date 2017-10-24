@@ -8,7 +8,6 @@ export const HeroImage = styled.div `
   background-image: url('${require('../../assets/space.png')}');
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: center;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -25,6 +24,10 @@ export const HeroImage = styled.div `
     to   { opacity: 1; }
   }
 `;
+
+export const PreLoad = styled.div`
+  display: static;
+`
 
 export const RevealP = styled.p`
   position: relative;
